@@ -1,0 +1,4 @@
+com\mycompany\udpsender\MyInput.class
+com\mycompany\udpsender\Target.class
+com\mycompany\udpsender\UDPSender.class
+com\mycompany\udpsender\Sender.class
