@@ -32,7 +32,7 @@ Haciendo uso del mismo principio de ataque DDoS, mediante la masificación de da
 Para hacer frente a este problema normalmente se optaba por aumentar la tarifa de internet, lo cual resulta costoso.
 Sin embargo LOIC 2 hace uso del principio Master/Slave, mediante un terminal(cliente/master) se puede controlar a múltiples terminales(servidores/slaves), manteniendo una comunicación TCP entre el cliente y los servidores para el control operativo.
 
-Este mecanismo permite el uso conjunto de múltiples terminales colaboradores, sumando sus respectivas bandas de ancho.
+Este mecanismo permite el uso conjunto de múltiples terminales colaboradores, sumando sus respectivos anchos de banda.
 
 A su vez también permite la ocultación del cliente/master desde el punto de vista del objetivo.
 
